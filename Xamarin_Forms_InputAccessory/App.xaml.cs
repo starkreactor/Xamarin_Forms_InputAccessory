@@ -8,7 +8,7 @@ namespace Xamarin_Forms_InputAccessory
 		{
 			InitializeComponent();
 
-			MainPage = new Xamarin_Forms_InputAccessoryPage();
+			MainPage = new TextFields();
 		}
 
 		protected override void OnStart()
